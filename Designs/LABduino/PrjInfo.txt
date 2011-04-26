@@ -1,0 +1,20 @@
+﻿
+//
+// This is a project description file.
+//
+
+[InfoShortDescription.en]
+LABduino 
+
+[InfoShortDescription.cs]
+LABduino
+  
+[InfoLongDescription.en]
+How easy to build Arduino from MLAB modules.
+
+[InfoLongDescription.cs]
+Jak jednoduše postavit Arduino z MLABu.
+
+[InfoBuyUST]
+
+[End]
