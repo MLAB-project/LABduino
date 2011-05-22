@@ -16,5 +16,6 @@ How easy to build Arduino from MLAB modules.
 Jak jednoduše postavit Arduino z MLABu.
 
 [InfoBuyUST]
+http://www.ust.cz/shop/product_info.php?products_id=89
 
 [End]
