@@ -5,7 +5,7 @@ A bootloader is used because it makes it easier to update the firmware and often
 deployment without the need to connect additional specialized circuits.
 
 There are several different bootloaders that have different features or use a different interface. Because MLAB LABDUINO is a professional 
-replacement for Arduino, we use the [MightyCore]([Standartně používáme MightyCore botloader. ](https://github.com/MCUdude/MightyCore)) bootloader by default. 
+replacement for Arduino, we use the [MightyCore](https://github.com/MCUdude/MightyCore) bootloader by default. 
 
 
 ## MightyCore
